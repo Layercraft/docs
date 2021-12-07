@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Layercraft.io Blog</title>
+        <link>https://layercraft.io/blog</link>
+        <description>Layercraft.io Blog</description>
+        <lastBuildDate>Tue, 07 Dec 2021 11:16:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://layercraft.io/blog/welcome-docusaurus-v2</link>
+            <guid>welcome-docusaurus-v2</guid>
+            <pubDate>Tue, 07 Dec 2021 11:16:40 GMT</pubDate>
+            <description><![CDATA[This is my first post on layercraft blog.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to this blog.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

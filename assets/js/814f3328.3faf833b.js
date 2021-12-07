@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_layercraft_io=self.webpackChunkdocs_layercraft_io||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/blog/welcome-docusaurus-v2"}]}')}}]);

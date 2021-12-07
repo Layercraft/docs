@@ -4,32 +4,30 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Better Perfomance / More Players',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Layercraft was built with the goal of improving the performance of your minecraft server. 
+        So you can handle more players and have a better experience.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Concentrace on content',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Layercraft was designed that you can focus on the content you want to add to your server.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Microservices',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Layercraft is built with microservices. This means that you belance your players and servers.
       </>
     ),
   },

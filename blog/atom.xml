@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://layercraft.io/blog</id>
-    <title>Layercraft.io Blog</title>
+    <title>layercraft.io Blog</title>
     <updated>2021-12-07T11:16:40.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://layercraft.io/blog"/>
-    <subtitle>Layercraft.io Blog</subtitle>
+    <subtitle>layercraft.io Blog</subtitle>
     <icon>https://layercraft.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>

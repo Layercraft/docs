@@ -14,7 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'layercraft', // Usually your GitHub org/user name.
-  projectName: 'info', // Usually your repo name.
+  projectName: 'website', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [

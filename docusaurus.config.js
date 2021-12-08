@@ -28,9 +28,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/blog/',
+            'https://github.com/layercraft/website/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -79,12 +78,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/layercraft',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.gg/ARVPRQZ7XW',
+              },
+              {
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/questions/tagged/layercraft',
               },
             ],
           },
@@ -107,6 +106,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['java', 'kotlin', 'rust'],
       },
     }),
 };

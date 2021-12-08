@@ -72,6 +72,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Branding',
+                to: '/branding'
+              }
             ],
           },
           {

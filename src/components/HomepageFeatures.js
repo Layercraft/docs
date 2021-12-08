@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Better Perfomance / More Players',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/speed.svg').default,
     description: (
       <>
         Layercraft was built with the goal of improving the performance of your minecraft server. 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Concentrace on content',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/content.svg').default,
     description: (
       <>
         Layercraft was designed that you can focus on the content you want to add to your server.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Microservices',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/microservices.svg').default,
     description: (
       <>
         Layercraft is built with microservices. This means that you belance your players and servers.

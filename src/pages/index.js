@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`Layercraft - ${siteConfig.title}`}
-      description="Layercraft handle you players.">
+      description="Layercraft handles your players.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_layercraft_io=self.webpackChunkdocs_layercraft_io||[]).push([[713],{3457:function(l){l.exports=JSON.parse('[{"label":"hello","permalink":"/blog/tags/hello","count":1},{"label":"layercraft","permalink":"/blog/tags/layercraft","count":1}]')}}]);

@@ -4,7 +4,7 @@
         <title>layercraft.io Blog</title>
         <link>https://layercraft.io/blog</link>
         <description>layercraft.io Blog</description>
-        <lastBuildDate>Tue, 07 Dec 2021 11:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 16:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Hello World]]></title>
             <link>https://layercraft.io/blog/welcome-docusaurus-v2</link>
             <guid>welcome-docusaurus-v2</guid>
-            <pubDate>Tue, 07 Dec 2021 11:21:55 GMT</pubDate>
+            <pubDate>Sun, 04 Sep 2022 16:10:42 GMT</pubDate>
             <description><![CDATA[This is my first post on layercraft blog.]]></description>
             <content:encoded><![CDATA[<p>Welcome to this blog.</p>]]></content:encoded>
             <category>hello</category>

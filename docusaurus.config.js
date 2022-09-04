@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'layercraft.io',
-  tagline: 'microservices are fine',
+  tagline: 'Stateless Minecraft Server in the direction of reactive microservices',
   url: 'https://layercraft.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -28,8 +28,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          editUrl:
-            'https://github.com/layercraft/website/edit/main/blog/',
+          editUrl:'https://github.com/layercraft/website/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,7 +55,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/layercraft',
+            href: 'https://github.com/Layercraft',
             label: 'GitHub',
             position: 'right',
           },
@@ -100,7 +99,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/layercraft',
+                href: 'https://github.com/Layercraft',
               },
             ],
           },
@@ -110,7 +109,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['java', 'kotlin', 'rust'],
+        additionalLanguages: ['java', 'kotlin'],
       },
     }),
 };

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://layercraft.io/blog</id>
     <title>layercraft.io Blog</title>
-    <updated>2022-09-04T16:10:42.000Z</updated>
+    <updated>2021-12-07T11:21:55.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://layercraft.io/blog"/>
     <subtitle>layercraft.io Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Hello World]]></title>
         <id>welcome-docusaurus-v2</id>
         <link href="https://layercraft.io/blog/welcome-docusaurus-v2"/>
-        <updated>2022-09-04T16:10:42.000Z</updated>
+        <updated>2021-12-07T11:21:55.000Z</updated>
         <summary type="html"><![CDATA[This is my first post on layercraft blog.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to this blog.</p>]]></content>
         <author>
